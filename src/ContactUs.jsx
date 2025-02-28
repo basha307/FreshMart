@@ -23,8 +23,8 @@ function ContactUs() {
                     
                     <h5 className="mt-4">Follow Us</h5>
                     <div className="d-flex">
-                        <a href="https://www.facebook.com/basha-1307/" className="text-white me-3 fs-4"><FaFacebook /></a>
-                        <a href="https://www.instagram.com/basha-1307/" className="text-white me-3 fs-4"><FaInstagram /></a>
+                        <a href="https://www.facebook.com/" className="text-white me-3 fs-4"><FaFacebook /></a>
+                        <a href="https://www.instagram.com/irfan_basha_799/" className="text-white me-3 fs-4"><FaInstagram /></a>
                         <a href="#" className="text-white fs-4"><FaTwitter /></a>
                     </div>
                 </div>
